@@ -19,7 +19,7 @@ This Power BI report analyzes store performance using key metrics such as:
 - The top 5 stores contribute nearly 60% of total revenue.
 
 ##  Dashboard Preview
-![Dashboard Overview](images/page1_overview.png)
+![Dashboard Overview](image1.png)
 
 ##  Author
 **V Akash**  
