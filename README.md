@@ -1,4 +1,3 @@
-# Store-sales-analysis
 #  Store Sales Analysis - Power BI Dashboard
 
 ##  Overview
@@ -24,4 +23,4 @@ This Power BI report analyzes store performance using key metrics such as:
 ##  Author
 **V Akash**  
 Created using Microsoft Power BI  
-[LinkedIn Profile](www.linkedin.com/in/veakash7)
+[LinkedIn Profile](https://www.linkedin.com/in/veakash7)
